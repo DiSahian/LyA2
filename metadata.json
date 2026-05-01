@@ -1,0 +1,5 @@
+{
+  "name": "Traductor Educativo a Python",
+  "description": "Un traductor de pseudocódigo a Python con interfaz PySide6 y explicaciones de errores con Gemini.",
+  "requestFramePermissions": []
+}
